@@ -3,7 +3,11 @@ import Game from "./components/Game";
 import "./app.css";
 
 function App() {
-  return <Game></Game>;
+  return;
+  <div>
+    <h2>Tic Tac</h2>
+    <Game></Game>
+  </div>;
 }
 
 export default App;
