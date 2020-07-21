@@ -1,0 +1,19 @@
+.square {
+  background-color: skyblue;
+  width: 5rem;
+  height: 5rem;
+  display: block;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  margin: 3px;
+}
+
+.on {
+}
+.off {
+  background-color: lightblue;
+}
+.active {
+  background-color: lightgreen;
+}
